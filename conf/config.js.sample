@@ -1,5 +1,5 @@
 //the ci address
-var ci_url = "http://ci.jruby.org/view/Ruboto";
+var ci_url = "https://webadeo.ci.cloudbees.com/view/OverView/";
 var jobs_to_be_filtered = ["apitest", "ergonomics"];
 //for all jobs for empty
 jobs_to_be_filtered = [];
